@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <link rel="stylesheet" href="../Jaffaspa/css/style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | JaffaSpan</title>
+</head>
+<body>
+    <header>
+        <img class="logo left" src="../Jaffaspa/fotos/jaffaspan 4.png" alt="">
+        <nav class="nav-container">
+            <a class="nav-item" href="./index.html">Home</a>
+            <a class="nav-item" href="./contacteer ons.html">Contact</a>
+            <a class="nav-item" href="./over ons.html">Over ons</a>
+            <a class="nav-item" href="./wat is een swimspa.html">Wat is een swimspa?</a>
+            <a class="nav-item" href="./gerechten.html">Afhaalgerechten</a>
+            <a class="nav-item" href="./Hoeveel kost een beurt.html">Tarieven</a>
+        </nav>
+    </header>
+    <main class="beige-background">
+        <h1><u>JaffaSpa</u></h1><br>
+        <div style="background-color: gray; color: #FFFFFF; padding: 10px;">WAT HEBBEN WIJ IN DE AANBIEDING?</div>
+        <div style="background-color: black; color: #FFFFFF; padding: 10px;"> 1 UUR RELAXEN IN DE JACUZZI EN HET ZWEMBAD</div>
+        <div style="background-color: black; color: #FFFFFF; padding: 10px;"> HEEL LEKKERE GERECHTEN</div>
+        <div style="background-color: black; color: #FFFFFF; padding: 10px;">WIL JE RESERVEREN? KLIK DAN <a href="./contacteer ons.html">HIER</a></div>
+
+        <div class="flex-container">
+            <div class="flex-item bigger-pepe">
+                <img src="./fotos/swimspa2.jpg" alt="Foto van de Swimspa">
+            </div>
+        </div>
+
+    </main>
+    <footer>
+        <small>&copy; Florian Dedeckel</small><br>
+        <small>+32468 54 10 08</small><br>
+        <small><a href="mailto:Jaffaspan@hotmail.com">mail</a></small>
+    </footer>
+</body>
+</html>
+
+

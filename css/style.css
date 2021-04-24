@@ -87,6 +87,7 @@ u{
     border:black 2px solid;
     border-radius: 10px;
     padding: 10px;
+    text-decoration: none;
 }
 footer a
 {
